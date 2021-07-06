@@ -1,5 +1,5 @@
-<h1 style="text-align: center">Wechat-Bot</h1>
-<p style="text-align: center">
+<h1 align="center">Wechat-Bot</h1>
+<p align="center">
     <a href="https://github.com/duanfuqiang1128/wechat-bot/issues" style="text-decoration:none">
         <img alt="GitHub issues" src="https://img.shields.io/github/issues/duanfuqiang1128/wechat-bot">
     </a>
